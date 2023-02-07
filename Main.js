@@ -9,6 +9,7 @@
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
 // @require     https://unpkg.com/ajax-hook@2.1.3/dist/ajaxhook.min.js
 // @grant        none
+// @run-at      document-start
 // ==/UserScript==
 
 (function() {
