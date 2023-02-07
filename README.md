@@ -30,6 +30,12 @@
 
 4.打开某个剧集列表，再点右上角“显示隐藏”展开界面，如果配置正确，应该已经捕获了响应的列表，具体怎么用自己尝试~注意所有操作都不会实时反应在界面上，要重新打开剧集列表才能看到。
 
+##  一些更新地址
+
+[地址1](https://jsd.cdn.zzko.cn/gh/sunjx17/JiKongjian_Episode_Batch@main/Main.js)
+[地址2](https://raw.kgithub.com/sunjx17/JiKongjian_Episode_Batch/main/Main.js)
+[地址3](https://ghproxy.net/https://raw.githubusercontent.com/sunjx17/JiKongjian_Episode_Batch/main/Main.js)
+[地址4](https://fastly.jsdelivr.net/gh/sunjx17/JiKongjian_Episode_Batch@main/Main.js)
 
 ##  依赖
 
